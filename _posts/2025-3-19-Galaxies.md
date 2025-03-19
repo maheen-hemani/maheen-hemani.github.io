@@ -10,8 +10,9 @@ As an astrophysicist, I decided to explore galaxies at low redshifts i.e. in the
 When it comes to identifying the gaps in knowledge on galaxy formation and evolution, one great paper I recommend reading is by Lucia et al. published in 2014, titled: “What Regulates Galaxy Evolution? Open questions in Our Understanding of Galaxy Formation and Evolution” [1]. This paper highlights and addresses the need to identify problematic areas in extragalactic astrophysics so we can have a better grasp of how galaxies work. 
 
 
-title: References
+References
 --
-[1] G. D. Lucia, A. Muzzin, and S. Weinmann, What Regulates Galaxy Evolution? Open Questions in Our Understanding of Galaxy Formation and Evolution, New Astronomy Reviews 62–63, 1 (2014).
+[1] G. D. Lucia, A. Muzzin, and S. Weinmann, What Regulates Galaxy Evolution? Open Questions in Our Understanding of Galaxy Formation and Evolution, New Astronomy Reviews 62–63, 1 (2014)
+
 [2] https://sloan.org/programs/research/sloan-digital-sky-survey#:~:text=The%20Sloan%20Digital%20Sky%20Survey,of%20the%20Milky%20Way%2C%20the
 
